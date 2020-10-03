@@ -46,7 +46,7 @@ You may find useful information in [training/test tips](docs/tips.md) and [frequ
 This algorithm was published on XXX.
 <br/><br/><br/>
 
-### ----- The following text is a general description of the pix2pix model. -----
+### ----- The following text is a general description of the pix2pix model -----
 
 ## Getting Started
 ### Installation

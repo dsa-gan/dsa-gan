@@ -30,10 +30,6 @@ mv best-performing_net_G.pth checkpoints/dsagan_pix2pix/latest_net_G.pth
 python test.py --dataroot path/to/liveimage --name dsagan_pix2pix --model pix2pix 
 ```
 
-# Research paper
-This algorithm was published on XXX.
-<br/><br/><br/>
-
 **Note**: The code included not only pix2pix but also  dcgan. In this research, we only use pix2pix.
 
 You may find useful information in [training/test tips](docs/tips.md) and [frequently asked questions](docs/qa.md). To implement custom models and datasets, check out our [templates](#custom-model-and-dataset). To help users better understand and adapt our codebase, we provide an [overview](docs/overview.md) of the code structure of this repository.
@@ -45,6 +41,10 @@ You may find useful information in [training/test tips](docs/tips.md) and [frequ
 - Python 3
 - CPU or NVIDIA GPU + CUDA CuDNN
 **Environment**: The current software works well with PyTorch 0.41+.
+
+# Research paper
+This algorithm was published on XXX.
+<br/><br/><br/>
 
 ### ----- The following text is a general description of the pix2pix model. -----
 

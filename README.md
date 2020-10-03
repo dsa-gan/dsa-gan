@@ -46,7 +46,7 @@ You may find useful information in [training/test tips](docs/tips.md) and [frequ
 - CPU or NVIDIA GPU + CUDA CuDNN
 **Environment**: The current software works well with PyTorch 0.41+.
 
-# ----- The following text is a general description of the pix2pix model. -----
+### ----- The following text is a general description of the pix2pix model. -----
 
 ## Getting Started
 ### Installation
